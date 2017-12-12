@@ -1,6 +1,6 @@
 # pyselfox
 
-This yet another docker container containing Python (3.6), Selenium and Firefox (ESR). 
+This yet another docker container containing Python (3.6), Selenium and Firefox (ESR). Docker build can be found [here](https://hub.docker.com/r/tehusername/pyselfox/)
 
 ### Why another one
 
